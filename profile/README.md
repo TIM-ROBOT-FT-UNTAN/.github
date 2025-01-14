@@ -35,10 +35,4 @@ Your contributions help us grow and bring more innovative solutions to the world
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 **TIM ROBOT FT UNTAN** is committed to excellence in robotics, education, and collaboration. Join us in our mission to create innovative solutions, develop the next generation of robotics engineers, and compete at the highest level in robotics challenges.
